@@ -14,7 +14,7 @@ public class HelloWorldController {
     }
 
     @GetMapping("/")
-    public String f(){
+    public String f2(){
         return "I'm alive";
     }
 }
